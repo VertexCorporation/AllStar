@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: UI Assets_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 5389d860de11d5b428e358d7a14d996c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5929406464
+    m_Localized: 'e8b6c54b62c3340469786ae76b091c56[TAP-12-10-2024_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694105415680
+    m_Localized: 'f05a77d41301f014aa6e121af8bd44da[nights_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26963392303104
+    m_Localized: 'b99b1405f017c704ca3dd7d290cb2c32[yes_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26968794566656
+    m_Localized: '8bb6f9eaa0d564741ba7f1e33945efc9[no_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364372063653888
+    m_Localized: '3da765d2093055e49bfe677cbbb80fd1[baldi_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364433531179008
+    m_Localized: '222adec2da1807b4eb04e717d3c7fcb9[board_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364305927868416
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14240050810880
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13560045080576
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367088718548992
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13581545082880
+    m_Localized: 'c0cc8fe6fa330854ebaabd61d0b4446e[baldi 1_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203298101432320
+    m_Localized: 'f1edb39e13d1bdb46b05bd56e0fdf4f1[dubai_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203861065109504
+    m_Localized: '8e3952ba0e2cd704eb53c98b9190baba[drink_0]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

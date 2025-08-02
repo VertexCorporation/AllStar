@@ -1,0 +1,552 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Texts_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 7bafd2d2ca848a44886de0e95ac4233b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50410000384
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8156984610816
+    m_Localized: SOUNDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12823831482368
+    m_Localized: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12901203808256
+    m_Localized: GIVE 5 STARS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15164798373888
+    m_Localized: JOIN VERTEX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16070734483456
+    m_Localized: Text here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153307746304
+    m_Localized: ENTER A CODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16305347072000
+    m_Localized: CODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16360778993664
+    m_Localized: call of duty e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118073163776
+    m_Localized: CREATE ACCOUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17209303470080
+    m_Localized: Make your name known to everyone playing the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17480557498368
+    m_Localized: NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17525121978368
+    m_Localized: mate dont give wonky names
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19678880305152
+    m_Localized: ACCOUNT SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864641835008
+    m_Localized: Are you tired of your name, let's find you a new one!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20828861992960
+    m_Localized: 'DONT FORGET
+
+      your new name will stay the same for at least
+      a week'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867740762112
+    m_Localized: Don't miss this campaign! If a player respawns by pressing the respawn
+      button 5 times, all their points will be doubled for one round.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22601240645632
+    m_Localized: DOUBLE POINTS CAMPAIGN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23451044384768
+    m_Localized: MAKE A DONATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23572578537472
+    m_Localized: Support Turkiye's young entrepreneurs at the age of 16!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23703042363392
+    m_Localized: a certain portion of the incoming funds is donated to charitable
+      foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25720330620928
+    m_Localized: "Big bro Ula\u015F, as the entire Vertex team, we've been following
+      you for a long time. Personally, I know most of your videos and all of your
+      stories by heart."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25722016731136
+    m_Localized: We apologize if we made you feel like we included you just for clout.
+      The reason we added that line was to make the character selection screen more
+      impactful, and we thought it would make you laugh when you saw it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25723254050816
+    m_Localized: We've changed the lines and added the best storytelling song ever
+      made as the music.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25726139731968
+    m_Localized: We love you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27195861602304
+    m_Localized: Make it to the top 3 and win cash prizes! Also be special surprise
+      gifts for everyone in the top 50. This season will last for 3 months.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154421878784
+    m_Localized: LEADERBOARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27225922179072
+    m_Localized: Can you become the best of the best?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852526030848
+    m_Localized: by the way only players with 10000+ points are on the leaderboard
+      or the server is exploding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31021314314240
+    m_Localized: RECORDBOARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30352096333824
+    m_Localized: "On the High Score Board, only the highest points players achieve
+      in a single round are valid. This board isn\u2019t part of the rewards, but
+      it still adds a unique layer of fun to the game."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30685866463232
+    m_Localized: by the way only players with 1000+ points are on the leaderboard
+      or the server is exploding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31955968823296
+    m_Localized: REWARD-PACKED SEASON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32363156049920
+    m_Localized: hold on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342154634039296
+    m_Localized: GAME PAUSED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342897726296064
+    m_Localized: TURKISH MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345378543865856
+    m_Localized: ABOUT LEADERBOARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345603589246976
+    m_Localized: dude play already you still just staring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345546517352448
+    m_Localized: "Users who have an account and reach a total score of 10,000+ will
+      have their names displayed on the continuously updated leaderboard.\nAt the
+      end of the season, both the leaderboard and users\u2019 total scores will be
+      reset.\nTop-ranking users will receive various privileges in Vertex\u2019s
+      upcoming games and apps, exclusive features in All Star, early access to our
+      projects, and many other rewards.\nIn addition, all players who reach a certain
+      ranking tier will also be eligible for lighter rewards.\nIf you want to benefit
+      from all of this and more, keep playing \u2014 and carve your name at the top
+      of the leaderboard!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346487081635840
+    m_Localized: WALLMART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351429326508032
+    m_Localized: BOUGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351644242644992
+    m_Localized: OR LISTEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351696923103232
+    m_Localized: SHIELD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351747992948736
+    m_Localized: POWERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352046996492288
+    m_Localized: PHOENIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352074678898688
+    m_Localized: BOOSTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352178131406848
+    m_Localized: JOIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352531321163776
+    m_Localized: OR SUBSCRIBE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352628729679872
+    m_Localized: EQUIPMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352808950534144
+    m_Localized: NIGHT BACKGROUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353436355497984
+    m_Localized: purchases are made with record points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356642217234432
+    m_Localized: you get it right frank ocean nights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374344419872768
+    m_Localized: Do you find yourself in the act of playing the game for the first
+      time?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374580433358848
+    m_Localized: INQUIRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378055808487424
+    m_Localized: 'Moniker:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378162071179264
+    m_Localized: 'Best score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378188574986240
+    m_Localized: 'Total score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378251812507648
+    m_Localized: 'Backdrop:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378357659963392
+    m_Localized: Delete        Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380494141952000
+    m_Localized: "Hello everyone\r today, we would like to introduce Game Kolik,
+      a rapidly growing company in the gaming world that stands out with its commitment
+      to quality service. Since embarking on this journey in 2020, the Game Kolik
+      team has successfully earned trust by offering products to gaming enthusiasts.
+      In 2021, with the launch of gamekolik.net, they provide their customers with
+      a wide range of games.\r\n\r\nAs Vertex Games, we have established a special
+      collaboration with Game Kolik. Through this partnership, we are delighted to
+      offer our valued followers an exclusive discount. You can use the code \u201Cvertexgames10\u201D
+      to receive a 10% discount on your purchases. Additionally, if you share a screenshot
+      of your purchase using this code on our Discord server, you will receive a
+      special role.\r\n\r\nWe encourage you to get to know the Game Kolik family,
+      who are confidently advancing in the gaming world, and we wish you happy shopping!\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380809150959616
+    m_Localized: LEGENDARY DEAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381888467013632
+    m_Localized: Your Vertex account will be removed and all your data will be deleted.
+      Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383908485763072
+    m_Localized: TRY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384747187179520
+    m_Localized: subliminal message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713225732329472
+    m_Localized: HOW TO PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713311690395648
+    m_Localized: "Oh, hi! Welcome to class! Today, we\u2019ll learn HOW TO PLAY ALL
+      STAR! Isn\u2019t that exciting? Haha!\nHere\u2019s the basics:\nAll Star is
+      a running game, like Subway Surfers. Your character runs automatically \u2013
+      just tap or swipe left or right to dodge obstacles.\nEat a sausage to rebuild
+      blocks.\nDrink an Archangel to double jump. Wheee!\nBe careful, though! Your
+      character gets faster every second, and the number of trees keeps increasing.
+      Don\u2019t hit them... or I\u2019ll know!\nUnlock better gear, use special
+      abilities, and make it easier. Learning is FUN!\n\nNow go play, and remember:\nDON\u2019T
+      FAIL. OR ELSE... HAHA!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364141649563648
+    m_Localized: "\u3164\u3164\u3164\u3164\u3164\u3164"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721267962122240
+    m_Localized: CREATED BY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721320860684288
+    m_Localized: (well thats his name)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721451433562112
+    m_Localized: "\u3164\u3164\u3164\u3164\u3164\u3164"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722097062776832
+    m_Localized: 'This game has been created by 14-year-olds to enjoy. Developed
+      in just 72 hours, the goal of this game is to promote recognition of the Vertex
+      Games team and build an player base that will be interested in future Vertex
+      Games projects. It is meant for fun and not intended for serious criticism.
+      The characters in the game are real-life individuals, all of whom are celebrities
+      or well-known personalities and willingly share their faces on various platforms.
+      In other words, they have all consented to their faces being broadcasted in
+      public platforms. However, if any of them do not wish to participate in All
+      Star, they can send a message to our team via e-mail.
+
+
+      the benefits
+      of duolingo
+
+      (notsponsoredbythewaybutheyitcouldbe)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723128391798784
+    m_Localized: "\u3164\u3164\u3164\u3164\u3164\u3164"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723383174795264
+    m_Localized: "VERTEX GAMES\xA9 HAS NO RIGHTS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739459107360768
+    m_Localized: "Did you think the game was over?\nNo, it\u2019s not over yet. How
+      about coming back to life and earning double points for the rest of the match,
+      along with many other perks? Just hit the respawn button below and keep playing
+      by watching a quick ad!\n\nWE NEED MONEY TO PUT THE GAME ON IOS DONT BE MAD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440467726864384
+    m_Localized: NEWS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440625193619456
+    m_Localized: CORTEX IS COMING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1442952772292608
+    m_Localized: "Have you ever heard of offline mobile AI? You haven\u2019t, because
+      it didn\u2019t exist.\nBUT NOW IT DOES\nIntroducing our new app, Cortex. Run
+      advanced AI models offline at full performance, directly on your own device.
+      Unlock the power to use server-side models like ChatGPT and Gemini, interact
+      with AI characters, upload your own models, and seamlessly combine different
+      AI models for a variety of tasks and functions. \nThe future of mobile AI is
+      here.\nAre you ready?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451876615426048
+    m_Localized: 'aren''t you tired of games eating up 500 GB of your internet while
+      downloading?!?
+
+      (ok maybe not that much but you get the point)
+
+      WITH
+      THE BRAND NEW OFFLINE GAME DOWNLOAD SYSTEM, VERTEX APP WILL BE LAUNCHING IN
+      2025
+
+      ALSO VERTEX APP IS OUR COUNTRY''S FIRST LARGE-SCALE GAME LAUNCHER
+      PROJECT AND IT''LL REPRESENT US GLOBALLY AMONG OTHER GAME LAUNCHERS AWOOOOOO
+
+      we''ll
+      let devs upload their games by the end of 2024, until then we''re putting games
+      manually
+
+      indie devs who can''t afford to put their games on steam
+
+      GATHER
+      UP SEND US YOUR GAMES WE NEED GAMES
+
+      btw we will outshine steam just
+      take care'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451966767796224
+    m_Localized: "\u3164\u3164\u3164\u3164\u3164\u3164"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454678079148032
+    m_Localized: GOT GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454692373336064
+    m_Localized: NO GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455720451772416
+    m_Localized: "the team that\u2019ll make the music for our games Polyhedron has
+      been founded!\nif you\u2019re into music production and wanna publish your
+      music\nfor free on every platform without using a distributor\ncome\non\nover"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456509412937728
+    m_Localized: LISTEN NOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467764131467264
+    m_Localized: WE MADE A ROCKET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467785476280320
+    m_Localized: 'uhhh
+
+      not that much
+
+      we made it in a parallel universe
+      though'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538171406852096
+    m_Localized: E-MAIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538490715021312
+    m_Localized: PASSWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886602855915520
+    m_Localized: LOGIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886693658402816
+    m_Localized: DO YOU HAVE ACCOUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886885552005120
+    m_Localized: COME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887019857813504
+    m_Localized: DON'T YOU HAVE ACCOUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887136249749504
+    m_Localized: LOGOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66709071313018880
+    m_Localized: are you sure bro youre gonna be logged out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015161325690880
+    m_Localized: VERIFICATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015093000478720
+    m_Localized: LOGIN WITH GOOGLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015060234575872
+    m_Localized: SIGN IN WITH GOOGLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015110012575744
+    m_Localized: 'To secure our system, we''ve sent a verification link to your email
+      address.
+
+
+      Accounts that are not verified within 24 hours will be permanently
+      deleted.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68074657590845440
+    m_Localized: Resend Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68088958061944832
+    m_Localized: DESTROY ACCOUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68462550285066240
+    m_Localized: NEW NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69890135707656192
+    m_Localized: yo my password is fried
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70217396973510656
+    m_Localized: RESET PASSWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70228870089449472
+    m_Localized: NEW PASSWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72420067486769152
+    m_Localized: CONGRULATIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425049530048512
+    m_Localized: UNDER MAINTENANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425052499615744
+    m_Localized: 'All Star is temporarily offline while we roll out some important
+      updates. Access to the game will be restored shortly.
+
+      Thank you for
+      your patience as we improve your experience.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

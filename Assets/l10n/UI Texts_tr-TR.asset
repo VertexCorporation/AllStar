@@ -1,0 +1,779 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Texts_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 7bafd2d2ca848a44886de0e95ac4233b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50410000384
+    m_Localized: AYARLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8156984610816
+    m_Localized: SESLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12823831482368
+    m_Localized: KATKIDA BULUNANLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12901203808256
+    m_Localized: 5 YILDIZ VER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15164798373888
+    m_Localized: VERTEX'E KATIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16070734483456
+    m_Localized: Buraya yaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153307746304
+    m_Localized: KOD YAZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16305347072000
+    m_Localized: KOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16360778993664
+    m_Localized: kall of duty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118073163776
+    m_Localized: HESAP KUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17209303470080
+    m_Localized: "Ad\u0131n\u0131 oyunu oynayan herkese duyur!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17480557498368
+    m_Localized: ADIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17525121978368
+    m_Localized: "ya yamuk yumuk adlar koymay\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19678880305152
+    m_Localized: HESAP AYARLARI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864641835008
+    m_Localized: "Ad\u0131ndan s\u0131k\u0131ld\u0131n m\u0131, yenisini bulal\u0131m!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20828861992960
+    m_Localized: "UNUTMA\nyeni ad\u0131n en az 1 hafta boyunca ayn\u0131 kalcak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867740762112
+    m_Localized: "Bu kampanyay\u0131 ka\xE7\u0131rma! 5 kere yeniden do\u011Fma butonuna
+      basarak yeniden do\u011Fan oyuncular\u0131n t\xFCm puanlar\u0131 bir turlu\u011Funa
+      ikiye katlan\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22601240645632
+    m_Localized: 2 KAT PUAN KAMPANYASI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23451044384768
+    m_Localized: TEBERRU ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23572578537472
+    m_Localized: "T\xFCrkiye'nin 16 ya\u015F\u0131ndaki gen\xE7 giri\u015Fimcilerine
+      destek ol!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23703042363392
+    m_Localized: "gelen paralar\u0131n belirli bir k\u0131sm\u0131 yard\u0131m vak\u0131flar\u0131na
+      gitmektedir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25720330620928
+    m_Localized: "Ula\u015F abi, t\xFCm Vertex ekibi olarak seni uzun zamand\u0131r
+      takip ediyoruz. Ben \u015Fahsen \xE7o\u011Fu videonu ve an\u0131lar\u0131n\u0131n
+      tamam\u0131n\u0131 ezbere biliyorum.     "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25722016731136
+    m_Localized: "Seni sadece prim i\xE7in koymu\u015Fuz gibi hissettirdiysek \xF6z\xFCr
+      dileriz. O repli\u011Fi koymam\u0131z\u0131n sebebi karakter se\xE7me ekran\u0131
+      i\xE7in daha iddial\u0131 bir s\xF6z olmas\u0131yd\u0131 ve g\xF6r\xFCnce g\xFClersin
+      diye d\xFC\u015F\xFCnm\xFC\u015Ft\xFCk. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25723254050816
+    m_Localized: "Replikleri de\u011Fi\u015Ftirdik, m\xFCzik olarak da yap\u0131lm\u0131\u015F
+      en iyi storytelling \u015Fark\u0131y\u0131 koyduk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25726139731968
+    m_Localized: Seni seviyoruz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27195861602304
+    m_Localized: "\u0130lk 3'e gir ve para \xF6d\xFCllerinin sahibi ol! \u0130lk
+      50'de olanlar\u0131n hepsine de ayr\u0131ca baz\u0131 s\xFCrpriz hediyelerimiz
+      olacak. Bu sezon 3 ay s\xFCrecek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154421878784
+    m_Localized: SKOR TABLOSU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27225922179072
+    m_Localized: En iyisinin iyisi olabilecek misin?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852526030848
+    m_Localized: "bu arada sadece 10000+ puan olanlar s\u0131ralamada yoksa sunucu
+      patl\u0131yo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31021314314240
+    m_Localized: REKOR PUAN TABLOSU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30352096333824
+    m_Localized: "Rekor puan tablosunda yaln\u0131zca oyuncular\u0131n bir turda
+      yapabildi\u011Fi en y\xFCksek puan ge\xE7erlidir. Bu tablo \xF6d\xFCllere dahil
+      de\u011Fildir ancak yine de oyuna farkl\u0131 bir e\u011Flence katar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30685866463232
+    m_Localized: "bu arada sadece 1000+ puan olanlar s\u0131ralamada yoksa sunucu
+      patl\u0131yo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31955968823296
+    m_Localized: "\xC7OK \xD6D\xDCLL\xDC SEZON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32363156049920
+    m_Localized: az bekle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342154634039296
+    m_Localized: OYUN DURDU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342897726296064
+    m_Localized: GLOBAL MOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345378543865856
+    m_Localized: SKOR TABLOSU HAKKINDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345603589246976
+    m_Localized: "oynasana hala bak\u0131yo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345546517352448
+    m_Localized: "Hesab\u0131 olan ve toplam skoru 10000+ olan kullan\u0131c\u0131lar
+      s\xFCrekli yenilenen skor tablosuna adlar\u0131n\u0131 yazd\u0131r\u0131rlar.\nSezon
+      i\xE7in belirlenmi\u015F s\xFCrenin sonunda skor tablosu ve kullan\u0131c\u0131lar\u0131n
+      toplam puanlar\u0131 s\u0131f\u0131rlan\u0131r. \nDerece yapan kullan\u0131c\u0131lar\u0131n
+      hesaplar\u0131na Vertex'in gelecekte \xE7\u0131karaca\u011F\u0131 oyunlarda
+      ve uygulamalarda \xE7e\u015Fitli ayr\u0131cal\u0131klar, All Star'da kullan\u0131c\u0131ya
+      \xF6zel baz\u0131 \xF6zellikler, projelerimize erken eri\u015Fim gibi bir\xE7ok
+      \xF6d\xFCl da\u011F\u0131t\u0131l\u0131r. Bunun yan\u0131nda belirli bir dilime
+      yerle\u015Fen t\xFCm oyuncular\u0131m\u0131z da daha hafif \xE7e\u015Fitli
+      \xF6d\xFCller almaya hak kazan\u0131r.\nBunlardan ve daha fazlas\u0131ndan
+      sen de yararlanmak istiyosan oynamaya devam et ve ad\u0131n\u0131 skor tablosunun
+      zirvesine kaz\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346487081635840
+    m_Localized: ALL 101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351429326508032
+    m_Localized: ALINDI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351644242644992
+    m_Localized: YA DA DINLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351696923103232
+    m_Localized: KALKAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351747992948736
+    m_Localized: YETENEKLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352046996492288
+    m_Localized: ANKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352074678898688
+    m_Localized: KATLAYICI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352178131406848
+    m_Localized: KATIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352531321163776
+    m_Localized: YA DA ABONE OL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352628729679872
+    m_Localized: DONANIMLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352808950534144
+    m_Localized: GECE ARKAPLANI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353436355497984
+    m_Localized: "sat\u0131n al\u0131mlar rekor puanla yap\u0131l\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356642217234432
+    m_Localized: "anlad\u0131n\u0131z dimi hani ezhel geceler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364141649563648
+    m_Localized: hepsini satcaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374344419872768
+    m_Localized: "Oyunu ilk defa m\u0131 oynamakta bulunmaktas\u0131n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374580433358848
+    m_Localized: SORGU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378055808487424
+    m_Localized: 'Rumuz:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378251812507648
+    m_Localized: 'Arkaplan:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378188574986240
+    m_Localized: 'Toplam Skor:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378162071179264
+    m_Localized: 'En iyi skor:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378357659963392
+    m_Localized: "Hesab\u0131        kald\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380494141952000
+    m_Localized: "\rMerhabalar, bug\xFCn sizlere oyun d\xFCnyas\u0131nda h\u0131zla
+      b\xFCy\xFCyen ve kaliteli hizmet anlay\u0131\u015F\u0131yla dikkat \xE7eken
+      Game Kolik firmas\u0131n\u0131 tan\u0131tmak istiyoruz. 2020 y\u0131l\u0131nda
+      \xE7\u0131kt\u0131klar\u0131 bu yolda, Game Kolik ekibi, oyun tutkunlar\u0131na
+      sunduklar\u0131 \xFCr\xFCnlerle g\xFCven kazanmay\u0131 ba\u015Fard\u0131.
+      2021'de kurduklar\u0131 gamekolik.net ile de m\xFC\u015Fterilerine geni\u015F
+      bir oyun yelpazesi sunuyorlar.\r\n\r\nBizler de Vertex Games olarak Game Kolik
+      ile \xF6zel bir i\u015F birli\u011Fi ger\xE7ekle\u015Ftirdik. Bu ortakl\u0131k
+      kapsam\u0131nda, siz de\u011Ferli takip\xE7ilerimize \xF6zel bir indirim sunmaktan
+      mutluluk duyuyoruz. Al\u0131\u015Fveri\u015Flerinizde %10 indirim kazanmak
+      i\xE7in \u201Cvertexgames10\u201D kodunu kullanabilirsiniz. Bu kodu kullanarak
+      yapt\u0131\u011F\u0131n\u0131z al\u0131\u015Fveri\u015Flerin ekran g\xF6r\xFCnt\xFCs\xFCn\xFC
+      Discord sunucumuza atarsan\u0131z size \xF6zel bir rol de verilecek.\r\n\r\nOyun
+      d\xFCnyas\u0131nda emin ad\u0131mlarla ilerleyen Game Kolik ailesiyle tan\u0131\u015Fman\u0131z\u0131
+      \xF6nerir, keyifli al\u0131\u015Fveri\u015Fler dileriz!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380809150959616
+    m_Localized: EFSANE FIRSAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381888467013632
+    m_Localized: "Hesab\u0131n oyundan kald\u0131r\u0131lacak ve verilerinin hepsi
+      silinecek, emin misin?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383908485763072
+    m_Localized: YENIDEN DENE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384747187179520
+    m_Localized: subliminal mesaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713225732329472
+    m_Localized: NASIL OYNANIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713311690395648
+    m_Localized: "en sevdi\u011Finiz \xF6\u011Fretmeniniz geldi ben por\xE7ay ve
+      size all star nas\u0131l oynan\u0131r onu MURAT YAPMA\n\n\xF6ncelikle all star
+      nas\u0131l oyun ona bakal\u0131m all star ko\u015Fu t\xFCr\xFCnde bir oyun
+      subway surfers gibi bir oynan\u0131\u015F bi\xE7imine sahip kendi kendine giden
+      bir karakter var parmaklar\u0131n\u0131z\u0131 sa\u011Fa veya sola kayd\u0131rarak
+      karaktere y\xF6n verip engellerden ka\xE7maya \xE7al\u0131\u015F\u0131yoruz
+      ayr\u0131ca ka\xE7arken sosis yiyerek bloklar\u0131 yenileyebilir veya archangel
+      i\xE7erek \xE7ift z\u0131playabilirsiniz\n\n karakter her saniye h\u0131zlanmakta
+      ve a\u011Fa\xE7 say\u0131s\u0131 da her saniye giderek artmakta gittik\xE7e
+      geli\u015Fen donan\u0131mlar\u0131n kilidini a\xE7\u0131p ve her karaktere
+      \xF6zel olan yetenekleri kullan\u0131p oyunun bu zorlu\u011Funu azaltabiliriz\nders
+      bitti hadi oyunu MURAT YETER LAN YETER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721267962122240
+    m_Localized: HAZIRLAYANLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721320860684288
+    m_Localized: "(harbi ad\u0131 bu)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721451433562112
+    m_Localized: '59 DOKSAN
+
+      SAN
+
+      SAN
+
+      EYMOCAN
+
+      SAN
+
+      CEG
+
+      SAN
+
+      MEA
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN
+
+      SAN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722097062776832
+    m_Localized: "This game has been created by 14-year-olds to enjoy. Developed
+      in just 72 hours, the goal of this game is to promote recognition of the Vertex
+      Games team and build an player base that will be interested in future Vertex
+      Games projects. It is meant for fun and not intended for serious criticism.
+      The characters in the game are real-life individuals, all of whom are celebrities
+      or well-known personalities and willingly share their faces on various platforms.
+      In other words, they have all consented to their faces being broadcasted in
+      public platforms. However, if any of them do not wish to participate in All
+      Star, they can send a message to our team via e-mail.\n\nduolingonun yararlar\u0131\n(sponsoralmad\u0131kbuaradaamaolur)s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723128391798784
+    m_Localized: HASAN MEZARCIYA SELAMLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723383174795264
+    m_Localized: "VERTEX GAMES\xA9 HAKLARI YOKTUR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739459107360768
+    m_Localized: "Oyun bitti mi sand\u0131n?\nHay\u0131r, daha bitmedi. Yeniden do\u011Fup
+      do\u011Fduktan sonra o ma\xE7 boyunca 2 kat daha fazla puan almay\u0131 ve
+      daha bir\xE7ok avantaj\u0131 ister misin? A\u015Fa\u011F\u0131daki yeniden
+      do\u011Fma butonuna bas ve bir reklam kar\u015F\u0131l\u0131\u011F\u0131nda
+      oynamaya devam et!\n\nAPP STORE HESABI KURUP OYUNU KOYCAZ PARA LAZIM KIZMAYIN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440467726864384
+    m_Localized: HABERLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440625193619456
+    m_Localized: CORTEX YAKINDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1442952772292608
+    m_Localized: "Hi\xE7 internetsiz mobil yapay zeka duymu\u015F muydunuz? Duymad\u0131n\u0131z
+      \xE7\xFCnk\xFC yok! \nAMA ARTIK VAR\nYeni uygulamam\u0131z Cortex ile yapay
+      zeka modellerini internetsiz olarak tam performansla kendi cihaz\u0131n\u0131zda
+      \xE7al\u0131\u015Ft\u0131r\u0131n. ChatGPT, Gemini gibi sunucu tarafl\u0131
+      modelleri de kullanabilme, karakterler, kendi modellerinizi y\xFCkleme, farkl\u0131
+      i\u015Flevlerdeki yapay zeka modellerini bir arada kullan\u0131labilme gibi
+      \xF6zellikler de uygulamada. \nYapay zekan\u0131n gelece\u011Fi burada.\nHaz\u0131r
+      m\u0131s\u0131n\u0131z?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451876615426048
+    m_Localized: "oyunlar\u0131 indirirken internetinden 500 GB yemesinden s\u0131k\u0131lmad\u0131n
+      m\u0131?!?!\n(bu kadar yemiyodur da anlad\u0131n\u0131z yani)\nYEPYEN\u0130
+      \u0130NTERNETS\u0130Z OYUN \u0130ND\u0130RME S\u0130STEM\u0130YLE VERTEX APP
+      2025 YILINDA KULLANIMA SUNULACAK\nAYRICA VERTEX APP \xDCLKEM\u0130Z\u0130N
+      \u0130LK B\xDCY\xDCK \xC7APLI GAME LAUNCHER PROJES\u0130 VE GLOBALDE \xDCLKEM\u0130Z\u0130
+      D\u0130\u011EER GAME LAUNCHERLER ARASINDA TEMS\u0130L ETCEK AAUUUUUUUU \nyap\u0131mc\u0131lar\u0131n
+      oyun koymas\u0131n\u0131 2024 sonlar\u0131nda yapcaz o zamana kadar oyunlar\u0131
+      manuel koyuyoz\nsteam'e oyun koymaya paras\u0131 yetmeyen oyun yap\u0131mc\u0131lar\u0131
+      \nTOPLANIN OYUNLARINIZI YOLLAYIN OYUN LAZIM \nsteam'e de koycaz bu arada iyi
+      bak\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451966767796224
+    m_Localized: "sonkoymakargoanlamdayd\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454678079148032
+    m_Localized: OYUNUM VAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454692373336064
+    m_Localized: OYUNUM YOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455720451772416
+    m_Localized: "oyunlar\u0131m\u0131zda kullan\u0131lcak m\xFCzikleri yapan tak\u0131m
+      olan Polyhedron kuruldu!\nm\xFCzik yap\u0131m\u0131yla ilgileniyosan ve m\xFCzi\u011Fini
+      distribit\xF6r kullanmadan \nbedava bir \u015Fekilde her platforma yay\u0131nlamak
+      istiyosan\ngel\no\nkadar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456509412937728
+    m_Localized: HEMEN BAK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467764131467264
+    m_Localized: ROKET YAPTIK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467785476280320
+    m_Localized: "\u0131\u0131\u0131\u0131\no kadar da de\u011Fil\nparalel evrende
+      yapt\u0131k ama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538171406852096
+    m_Localized: E-POSTAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538490715021312
+    m_Localized: PAROLAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886602855915520
+    m_Localized: OTURUM TAZELE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886693658402816
+    m_Localized: VERTEX HESABIN VAR MI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886885552005120
+    m_Localized: GEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887019857813504
+    m_Localized: VERTEX HESABIN YOK MU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887136249749504
+    m_Localized: OTURUMDAN AYRIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66709071313018880
+    m_Localized: emin misin kanki bak oturumun kapancak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015161325690880
+    m_Localized: ONAYLAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015093000478720
+    m_Localized: GOOGLE'LA TAZELE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015060234575872
+    m_Localized: GOOGLE'LA KAYIT OL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015110012575744
+    m_Localized: "Sistemimizi g\xFCvence alt\u0131na almak i\xE7in e-posta adresinize
+      bir do\u011Frulama ba\u011Flant\u0131s\u0131 g\xF6nderdik.\n\n24 saat i\xE7inde
+      do\u011Frulanmayan hesaplar kal\u0131c\u0131 olarak silinecektir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68074657590845440
+    m_Localized: Yeniden Yolla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68088958061944832
+    m_Localized: HESABI YOK ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68462550285066240
+    m_Localized: TAZE ADIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69890135707656192
+    m_Localized: "parolay\u0131 unuttuk ya"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70217396973510656
+    m_Localized: PAROLAYI SIFIRLA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70228870089449472
+    m_Localized: TAZE PAROLA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72420067486769152
+    m_Localized: KUTLARIZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425049530048512
+    m_Localized: BAKIMDAYIZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425052499615744
+    m_Localized: "\xD6nemli g\xFCncellemeler yaparken All Star ge\xE7ici olarak \xE7evrimd\u0131\u015F\u0131.
+      Oyuna eri\u015Fim k\u0131sa s\xFCre i\xE7inde yeniden sa\u011Flanacakt\u0131r.\nDeneyiminizi
+      iyile\u015Ftirirken g\xF6sterdi\u011Finiz sab\u0131r i\xE7in te\u015Fekk\xFCr
+      ederiz"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

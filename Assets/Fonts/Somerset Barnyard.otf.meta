@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 46908e22f02e39043aee31d49d11c6f3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Somerset Barnyard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6a08c69e57250b0458dc6140816fe965, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

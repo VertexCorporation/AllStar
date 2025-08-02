@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Assets Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Assets
+  m_TableCollectionNameGuidString: 5389d860de11d5b428e358d7a14d996c
+  m_Entries:
+  - m_Id: 5929406464
+    m_Key: tapAsset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694105415680
+    m_Key: nights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13560045080576
+    m_Key: besimTibuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13581545082880
+    m_Key: "ibrahimY\u0131lmaz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14240050810880
+    m_Key: ii
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26963392303104
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26968794566656
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364305927868416
+    m_Key: erkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364372063653888
+    m_Key: baldi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364433531179008
+    m_Key: board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367088718548992
+    m_Key: iiii
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203298101432320
+    m_Key: sausage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203861065109504
+    m_Key: archangel
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 300435195584839684
+  m_KeyGenerator:
+    rid: 300435195584839680
+  references:
+    version: 2
+    RefIds:
+    - rid: 300435195584839680
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733841719392
+    - rid: 300435195584839684
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 5929406464
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 7694105415680
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 13560045080576
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 14240050810880
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 26963392303104
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 26968794566656
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 364305927868416
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 364372063653888
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 364433531179008
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 367088718548992
+          m_TableCodes:
+          - tr-TR
+          - en-US
+        - m_KeyId: 13581545082880
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 2203298101432320
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        - m_KeyId: 2203861065109504
+          m_TableCodes:
+          - en-US
+          - tr-TR
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

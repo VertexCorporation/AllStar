@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: UI Assets_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 5389d860de11d5b428e358d7a14d996c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5929406464
+    m_Localized: 'ddac8fd276af7a84c926628011a9a371[BAS-23-10-2023]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694105415680
+    m_Localized: '9af4e200176426845a2235f700a86af6[gece]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13560045080576
+    m_Localized: '303cb743ca097944fa28228544d1b3d1[indir]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14240050810880
+    m_Localized: '27f172fccff3dd94d8b69f94c438c837[i_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26963392303104
+    m_Localized: '9854202088925d643af7ba3b434a6c4a[var 1_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26968794566656
+    m_Localized: 'cfe94b3898158c9488620d61ce157e81[yok_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364305927868416
+    m_Localized: '2ee7320e2306e8e44b50d69643e0bb77[porcayakaphotoAid-removed-background]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364372063653888
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364433531179008
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367088718548992
+    m_Localized: 'edacd455bddb34f9d896629d24deff79[rounded]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13581545082880
+    m_Localized: '46fb3d490332c6b45b72d9a7605c4392[transparent_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203298101432320
+    m_Localized: '5a80e7f85ffd8a24d9cd0f11fd3fea22[kbyseks]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203861065109504
+    m_Localized: '829b874e8877b984fa0c972d419431df[ohkbyahoh]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

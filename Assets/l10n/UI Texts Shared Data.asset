@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Texts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Texts
+  m_TableCollectionNameGuidString: 7bafd2d2ca848a44886de0e95ac4233b
+  m_Entries:
+  - m_Id: 50410000384
+    m_Key: settingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8156984610816
+    m_Key: soundText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12901203808256
+    m_Key: starText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12823831482368
+    m_Key: creditsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15164798373888
+    m_Key: joinVertex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16070734483456
+    m_Key: enterText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16153307746304
+    m_Key: codeEnter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16305347072000
+    m_Key: codeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16360778993664
+    m_Key: codeJoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118073163776
+    m_Key: createAccount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17209303470080
+    m_Key: announceName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17480557498368
+    m_Key: name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17525121978368
+    m_Key: accountJoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19678880305152
+    m_Key: accountSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864641835008
+    m_Key: tiredName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20828861992960
+    m_Key: dontForget
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867740762112
+    m_Key: campaignDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22601240645632
+    m_Key: campaignTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23451044384768
+    m_Key: donateTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23572578537472
+    m_Key: donateDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23703042363392
+    m_Key: donateInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25720330620928
+    m_Key: ulasAbi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25722016731136
+    m_Key: ulasAbi2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25723254050816
+    m_Key: ulasAbi3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25726139731968
+    m_Key: ulasAbi4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154421878784
+    m_Key: leaderboardTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27195861602304
+    m_Key: seasonDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27225922179072
+    m_Key: leaderboardMotivation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852526030848
+    m_Key: leaderboardDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30352096333824
+    m_Key: recordboardInformation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30685866463232
+    m_Key: recordboardDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31021314314240
+    m_Key: recordboardTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31955968823296
+    m_Key: leaderboardSlogan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32363156049920
+    m_Key: holdOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342154634039296
+    m_Key: gamePaused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342897726296064
+    m_Key: changeMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345378543865856
+    m_Key: leaderboardInformationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345546517352448
+    m_Key: leaderboardInformationDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345603589246976
+    m_Key: leaderboardInformationJoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346487081635840
+    m_Key: shopTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351429326508032
+    m_Key: boughtText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351644242644992
+    m_Key: orListen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351696923103232
+    m_Key: shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351747992948736
+    m_Key: powers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352046996492288
+    m_Key: phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352074678898688
+    m_Key: booster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352178131406848
+    m_Key: join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352531321163776
+    m_Key: orSubscribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352628729679872
+    m_Key: equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352808950534144
+    m_Key: nightBackground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353436355497984
+    m_Key: shopInformation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356642217234432
+    m_Key: shopJoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364141649563648
+    m_Key: hepsiniSatcaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374344419872768
+    m_Key: firstTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374580433358848
+    m_Key: inquiry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378055808487424
+    m_Key: accountName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378162071179264
+    m_Key: bestScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378188574986240
+    m_Key: totalScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378251812507648
+    m_Key: background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378357659963392
+    m_Key: deleteAccount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380494141952000
+    m_Key: gamekolik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380809150959616
+    m_Key: legendaryDeal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381888467013632
+    m_Key: sureText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383908485763072
+    m_Key: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384747187179520
+    m_Key: subliminalMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713225732329472
+    m_Key: howToPlayTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713311690395648
+    m_Key: howToPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721267962122240
+    m_Key: createdBy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721320860684288
+    m_Key: well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721451433562112
+    m_Key: dokSan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722097062776832
+    m_Key: duolingo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723128391798784
+    m_Key: hasan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723383174795264
+    m_Key: copyright
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739459107360768
+    m_Key: adInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440467726864384
+    m_Key: news
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440625193619456
+    m_Key: cortexNewTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1442952772292608
+    m_Key: cortexNewNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451876615426048
+    m_Key: vertexAppNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451966767796224
+    m_Key: vertexAppJoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454678079148032
+    m_Key: gotGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454692373336064
+    m_Key: noGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455720451772416
+    m_Key: polyhedronNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456509412937728
+    m_Key: listenNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467764131467264
+    m_Key: rocketNewTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1467785476280320
+    m_Key: rocketNewNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538171406852096
+    m_Key: email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64538490715021312
+    m_Key: password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886602855915520
+    m_Key: login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886693658402816
+    m_Key: doYouHaveVertexAccount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64886885552005120
+    m_Key: come
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887019857813504
+    m_Key: dontYouHaveVertexAccount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64887136249749504
+    m_Key: logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66709071313018880
+    m_Key: logoutSure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015060234575872
+    m_Key: signInWithGoogle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015093000478720
+    m_Key: loginWithGoogle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015110012575744
+    m_Key: verificationDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68015161325690880
+    m_Key: verification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68074657590845440
+    m_Key: resendVerificationEmail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68088958061944832
+    m_Key: sure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68462521440837632
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68462550285066240
+    m_Key: newName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69890135707656192
+    m_Key: forgotPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70217396973510656
+    m_Key: resetPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70228870089449472
+    m_Key: newPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72420067486769152
+    m_Key: congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425049530048512
+    m_Key: maintenanceTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85425052499615744
+    m_Key: maintenanceSubtitle
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 300435173621629131
+  references:
+    version: 2
+    RefIds:
+    - rid: 300435173621629131
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733758235782
