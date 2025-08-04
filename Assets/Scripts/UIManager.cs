@@ -293,22 +293,22 @@ public class UIManager : MonoBehaviour
         {
             if (currentLanguage.StartsWith("tr"))
             {
-                bg.text = "gece Arkaplanı";
+                bg.text = "gece arkaplanı";
             }
             else
             {
-                bg.text = "night Backdrop";
+                bg.text = "night backdrop";
             }
         }
         else
         {
             if (currentLanguage.StartsWith("tr"))
             {
-                bg.text = "sabah Arkaplanı";
+                bg.text = "sabah arkaplanı";
             }
             else
             {
-                bg.text = "morning Backdrop";
+                bg.text = "morning backdrop";
             }
         }
     }
@@ -622,6 +622,8 @@ public class UIManager : MonoBehaviour
         Debug.Log("Language set to: " + LocalizationSettings.SelectedLocale.LocaleName);
 
         UpdateLocalizedTexts();
+
+        UpdateAllShopAndUI();
 
         if (localeIndex == 0)
         {

@@ -15,7 +15,7 @@ MonoBehaviour:
   adMobAndroidAppId: ca-app-pub-2448682662093474~5899436859
   adMobIOSAppId: 
   enableKotlinXCoroutinesPackagingOption: 1
-  optimizeInitialization: 0
-  optimizeAdLoading: 0
+  disableOptimizeInitialization: 0
+  disableOptimizeAdLoading: 0
   userTrackingUsageDescription: 
-  validateGradleDependencies: 0
+  userLanguage: en

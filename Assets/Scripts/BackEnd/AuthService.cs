@@ -574,12 +574,12 @@ namespace Vertex.Backend
             {
                 Debug.LogError($"[AuthService] Cloud Function error while redeeming promo code. ErrorCode: {e.ErrorCode}, Message: {e.Message}");
                 string clientErrorMessage;
-                switch (e.ErrorCode)
+                switch (e.Message)
                 {
-                    case FunctionsErrorCode.NotFound:
+                    case "not-found":
                         clientErrorMessage = "ERROR_CODE_INVALID";
                         break;
-                    case FunctionsErrorCode.AlreadyExists:
+                    case "already-exists":
                         clientErrorMessage = "ERROR_CODE_ALREADY_REDEEMED";
                         break;
                     default:
